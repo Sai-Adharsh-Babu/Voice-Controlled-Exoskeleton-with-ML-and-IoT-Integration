@@ -3,7 +3,7 @@
 
 const char* ssid = "ss_id";
 const char* password = "ss_pwd";
-const char* serverURL = "http://192.168.118.63:5000/voice_command";  
+const char* serverURL = "http://192.168.1.100:5000/voice_command";  
 
 WiFiClient client;  // Declare globally
 
