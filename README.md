@@ -32,10 +32,29 @@ The system consists of three primary modules:
 - **Modular ML pipeline:** Designed for future expansion into predictive motion and gesture-based control.  
 - **Local data handling:** Uses Flask for command routing without requiring cloud dependency.  
 
-## Repository Contents
-/src     → Source code for Arduino, ESP8266, and Flask server  
-/docs    → University project report and supporting documentation  
-/media   → Presentation + prototype demonstration video  
+## Repository Structure  
+```
+Voice-Controlled-Exoskeleton-with-ML-and-IoT-Integration/
+│
+├── src/                        # Source code for embedded and server systems
+│   ├── arduino/                # Arduino code for exoskeleton actuation
+│   │   └── exoskeleton_control.ino
+│   │
+│   ├── esp8266/                # IoT communication code
+│   │   └── esp_control.ino
+│   │
+│   └── flask_server/           # Python Flask server for IoT integration
+│       └── app.py
+│
+├── docs/                       # Documentation and technical report
+│   └── Project_Report.pdf
+│
+├── media/                      # Presentation and prototype demonstration
+│   └── presentation_and_protype_demo_video.mp4
+│
+├── LICENSE                        # License file  
+└── README.md                      # Project documentation (this file)
+```
 
 ## Demonstration Media
 The `media/` folder includes:
