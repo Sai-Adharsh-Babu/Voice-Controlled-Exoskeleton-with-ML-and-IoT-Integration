@@ -42,6 +42,9 @@ The `media/` folder includes:
 - A **presentation video** explaining system design, workflow, and implementation.  
 - A **prototype demonstration video** showing real-time voice-controlled limb movement and IoT communication in action.
 
+## License  
+This project is licensed under the terms specified in the **[LICENSE](./LICENSE)** file.
+
 ## Acknowledgment
 Developed as part of a **university module project** in the **Biomedical Engineering program (Year 2)**.  
 Collaboratively completed by a two-member team focusing on hardware–software integration for assistive technologies.
