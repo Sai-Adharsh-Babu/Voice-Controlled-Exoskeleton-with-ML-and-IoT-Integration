@@ -1,4 +1,4 @@
-### 🎥 **Presentation and Demonstration Video**  
+### **Presentation and Demonstration Video**  
 **Final presentation and live demonstration of the *Voice-Controlled Exoskeleton for Gait Assistance* project.**  
 **Showcases system functionality, hardware integration, voice command control via Google Assistant and Flask server, IoT connectivity using NodeMCU, and real-time movement assistance through servo actuation.**  
 
